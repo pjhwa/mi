@@ -52,8 +52,8 @@
    ```
 2. GitHub에서 코드를 다운로드하거나 클론합니다:
    ```bash
-   git clone https://github.com/pjhwa/mi.git
-   cd mi
+   git clone https://github.com/pjhwa/mpa.git
+   cd mpa
    ```
 
 ### 실행 방법
